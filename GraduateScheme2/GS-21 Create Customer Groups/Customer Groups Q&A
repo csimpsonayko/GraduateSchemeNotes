@@ -1,0 +1,41 @@
+https://jira.ayko.com/browse/GS-21
+
+Q1:What does it mean to exclude a customer group from a website?
+Answer: 
+-Excluding websites can decrease Product Price and Catalog Rule indexing time
+
+Q2:Why would you exclude them?
+Answer: 
+-Excluding websites can decrease Product Price and Catalog Rule indexing time, because excluded websites are not indexed.
+
+Q3:Why would you use a customer group?
+Answer: 
+-By default, all websites are assigned to a customer group. If there are a large number of products, websites, customer groups, and B2B shared catalogs, the execution time of the Product Price and Catalog Rule indexers may be quite long
+
+Q4:What areas of Magento reference customer groups?
+Answer: 
+- Product Price and Catalog Rule
+
+Q5:How many customer groups can a customer belong to?
+Answer: 
+-infinite?
+
+Q6:Can you change a customer group after it has been created?
+Answer: yes?
+-
+
+Q7:What happens to orders that have been purchased previously?
+Answer: 
+-nothing ?
+
+Q8:What happens to actions based off of group based permissions for the customer? Can they do the old ones still?
+Answer: 
+-yes?
+
+
+
+Reference:
+--------------
+https://docs.magento.com/user-guide/customers/customer-groups.html
+https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexer-optimization.html?_ga=2.136892976.1097518236.1636032293-1530437699.1636032293#customer-group-limitations-by-websites
+

@@ -1,0 +1,28 @@
+Deliverables:
+
+Watch Udemy course linked in the resource section
+
+Watch the whole of section 2 "Magento 2 Core Functionality" from "Magento 2 Training Goal and Core Functionality" all the way through to the "Email Functionality" lesson
+
+Write notes on the important keywords and behaviours within the course that you will use to provide response to questions from your line manager
+
+Notes: 
+---------------------------------------------------
+
+Section 1 Notes: 
+-----------------
+- is teh dbSchema in video relevant ?
+- require a basic example of working db model building into Ayko/GradScheme
+- 
+
+Section 2 Notes: 
+-----------------
+- 
+
+Gs-36
+
+
+production mode copies the files to enable minification and caching
+
+symlinks to pub 
+
