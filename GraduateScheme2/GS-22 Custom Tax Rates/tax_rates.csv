@@ -1,0 +1,12 @@
+Code,Country,State,Zip/Post Code,Rate,Zip/Post is Range,Range From,Range To,default
+GBR*-Rate 1,GBR,*,*,8.25,,,,
+GBR*-Rate 2,GBR,*,*,8.375,,,,
+GBR*-Rate 3,GBR,*,*,8.25,,,,
+IRL*-Rate 1,IRL,*,*,7.25,,,,
+IRL*-Rate 1,IRL,*,*,7.25,,,,
+GGY*-Rate 1,GGY,*,*,6.5,,,,
+GGY*-Rate 1,GGY,*,*,6.5,,,,
+IMN*-Rate 1,IMN,*,*,5.75,,,,
+IMN*-Rate 1,IMN,*,*,5.75,,,,
+JEY*-Rate 1,JEY,*,*,4.9375,,,,
+JEY*-Rate 1,JEY,*,*,4.9375,,,,

@@ -1,0 +1,11 @@
+Country,Region/State,Zip/Postal Code,Order Subtotal (and above),Shipping Price
+GBR,*,*,0,4.99
+GBR,*,*,10,0
+IRL,*,*,0,4.99
+IRL,*,*,10,0
+GGY,*,*,0,4.99
+GGY,*,*,10,0
+IMN,*,*,0,4.99
+IMN,*,*,10,0
+JEY,*,*,0,4.99
+JEY,*,*,10,0

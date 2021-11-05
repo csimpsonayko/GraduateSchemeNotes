@@ -1,34 +1,34 @@
-https://jira.ayko.com/browse/GS-
+https://jira.ayko.com/browse/GS-22
 
-Q1:
+Q1:What is the difference between a tax rate and a tax rule?
+Answer: 
+- Rate is a flat percentage - rules are based on weight/destination
+
+Q2:How do you add a new tax class?
+Answer: Add a new Rule & export the layout spreadsheet - update accordingly
+-
+
+Q3:What is the relationship between a tax class and a customer group?
 Answer: 
 -
 
-Q2:
-Answer: 
--
-
-Q3:
-Answer: 
--
-
-Q4:
+Q4:How many tax classes can a single customer have?
 Answer: 
 - 
 
-Q5:
+Q5:What is the relationship with a tax class, rate, and rule?
 Answer: 
 -
 
-Q6:
+Q6:What happens if you assign multiple rates to the same rule?
 Answer: 
 -
 
-Q7:
+Q7:What happens if you assign multiple rates that match the same conditions? I.e. All of UK tax rate + specific UK postcode tax rate
 Answer: 
 -
 
-Q8:
+Q8:How do the tax rate priorities effect the tax on the checkout?
 Answer: 
 -
 
@@ -37,3 +37,6 @@ Answer:
 Reference:
 --------------
 
+https://docs.magento.com/user-guide/tax/tax-settings-general.html
+https://www.youtube.com/watch?v=kSX2zjTK35w
+https://magefan.com/blog/magento-2-tax-configuration
