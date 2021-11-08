@@ -1,0 +1,38 @@
+https://jira.ayko.com/browse/GS-29
+
+Q1:What is an identifier for CMS Blocks?
+
+Answer: 
+- a unique name used to called that block
+
+Q2:How does the "store view" multiselect on the CMS block affect it's display?
+
+Answer: 
+-
+
+Q3:If you disable a block or set it to not show on a store, but it is configured to show on a product or a category still?
+
+Answer: 
+-
+
+Q4:What is the naming convention (and therefore restrictions) of the CMS block "identifier"?
+
+Answer: 
+- 
+
+Q5:What is the page builder?
+
+Answer: the old bluefoot builder making teh WYSIWG on steroids
+-
+
+Q6:Which entities can a CMS block be added to from the admin area? I.e. Category
+
+Answer: 
+-
+
+
+
+
+Reference:
+--------------
+

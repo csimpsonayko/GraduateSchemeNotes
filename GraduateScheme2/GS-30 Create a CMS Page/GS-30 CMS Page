@@ -1,0 +1,32 @@
+https://jira.ayko.com/browse/GS-30
+
+Q1:What is the difference between a CMS Page and a CMS Block?
+Answer: 
+
+-CMS page: A page which is dynamic and editable (not the category page and product page) such as informative pages. (Content > Pages)
+
+- CMS block: It includes any dynamic content of your page, which can be placed on any CMS or other pages. (Content > Blocks)
+
+Catalog Category: You can manage/create categories/sub categories from here.
+
+Catalog Product: You can manage/create products from here.
+
+Q2:What is a scheduled design update?
+Answer: 
+-The Schedule Design Update section gives you the ability to make temporary changes to the appearance of the product page. ... Design changes can be scheduled in advance, so they go into effect, or drip, on your defined schedule.
+
+Q3:What is the difference between a page title and a page heading?
+Answer: 
+-Page Title: This is the title for the CMS Page. You will be able to use the page title for the internal references, and it will be the title in the breadcrumbs as well.
+
+- Content Heading: This will be the heading on the Frontend, below the breadcrumbs.
+
+
+
+Reference:
+--------------
+https://magento.stackexchange.com/questions/226496/what-is-the-difference-between-cms-page-link-and-cms-static-block-catalog-produ
+
+https://docs.magento.com/user-guide/catalog/product-scheduled-design-update.html#:~:text=The%20Schedule%20Design%20Update%20section,appearance%20of%20the%20product%20page.&text=Design%20changes%20can%20be%20scheduled,drip%2C%20on%20your%20defined%20schedule.
+
+https://zemez.io/support/magento/how-to/magento-2-page-title-vs-content-heading/

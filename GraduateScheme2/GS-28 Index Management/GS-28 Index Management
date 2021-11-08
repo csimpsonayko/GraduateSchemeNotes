@@ -1,0 +1,44 @@
+https://jira.ayko.com/browse/GS-28
+
+Q1:What does it mean to "reset" an index?
+Answer: 
+-
+
+Q2:What options are available to users of the admin
+Answer: 
+-
+
+Q3:What are indexes for?
+Answer: 
+-
+
+Q4:Why are flat indexes no longer needed on Magento 2 (this was a feature used on Magento 1 and included in Magento2 originally for expected use. This is no longer the case)?
+Answer: 
+- 
+
+Q5:What type of entity are each of the indexes for?
+Answer: 
+-
+
+Q6:What does the output show for `php bin/magento index:status` and what does it mean?
+Answer: 
+-
+
+Q7:How do you run the cron from the terminal for specifically the index cron group?
+Answer: 
+-
+
+Q8:What does it mean when an index is invalidated?
+Answer: 
+-
+
+Q9:If you update a product attribute, which indexes are invalidated?
+Answer: 
+-
+
+
+Reference:
+--------------
+https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html
+https://www.mageplaza.com/magento-2-module-development/magento-2-indexing.html
+https://amasty.com/blog/comprehensive-guide-to-magento-2-indexing/
