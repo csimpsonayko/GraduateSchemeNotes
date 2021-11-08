@@ -1,39 +1,28 @@
-https://jira.ayko.com/browse/GS-
+https://jira.ayko.com/browse/GS-23
 
-Q1:
+Q1:What happens when you have multiple address for each billing and shipping address type in the checkout and customer account?
 Answer: 
 -
 
-Q2:
-Answer: 
+Q2:How does a customer change their default address
+Answer: My Account > Address Book
 -
 
-Q3:
+Q3:How do you change a customer group after the customer has created their account?
 Answer: 
--
+- via the admin - Customers > Edit
 
-Q4:
+Q4:If a customer creates a review for a product, where does this appear in the admin
 Answer: 
-- 
+- Marketing - Pending Reviews
 
-Q5:
+Q5:Be ready to summarise the relationships with customers and tax rates
 Answer: 
--
+- customers based on diff locations get diff rates of tax ?
 
-Q6:
-Answer: 
--
-
-Q7:
-Answer: 
--
-
-Q8:
-Answer: 
--
 
 
 
 Reference:
 --------------
-
+https://meetanshi.com/blog/create-a-new-customer-from-magento-2-admin/

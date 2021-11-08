@@ -1,0 +1,32 @@
+https://jira.ayko.com/browse/GS-24
+
+Hints and Suggestions:
+
+All configuration for price rules are available in the marketing section of the admin menu
+Tax configuration can be found in stores → configuration → sales
+Ensure that you have applied the rules from the catalogue price rule grid to see the changes
+After applying rules that are added to the message queue, of which can be triggered via a manual cron run in the Magento terminal commands
+
+
+Q1:What is a Catalogue Price Rule?
+Answer: 
+-The Catalog Price Rule is a special rule with conditions you define in the configuration,that allows your customers to buy products at a discounted price. The setting of conditions isn't required if the rule is offered for all products.
+
+Q2:Why is it advantageous to have an "Apply rule" button on the grid, and not allow for them to just be applied upon creation?
+Answer: 
+- So it can apply to diiferent conditions
+
+Q3: What is a condition in the context of a price rule?
+Answer: 
+-Conditions. Specifies the conditions that must be met before the catalog price rule goes into action. If left blank, the rule applies to all products.
+
+Q4:What is an action in the context of a price rule?
+Answer: -
+- Buy X get Y free	
+
+
+
+
+Reference:
+--------------
+https://docs.magento.com/user-guide/marketing/price-rules-cart-create.html

@@ -1,0 +1,62 @@
+https://jira.ayko.com/browse/GS-26
+
+Q1:What are the differences between a catalogue rule and a cart rule?
+
+Answer: 
+
+- The Catalog Price Rule is a special rule with conditions you define in the configuration,that allows your customers to buy products at a discounted price. The setting of conditions isn't required if the rule is offered for all products.
+
+-The Catalog Price Rule is auto-applied when products meet the set conditions instead of including coupon codes.
+
+
+Q2:When talking about a "quote" object in Magento, what does this actually mean?
+
+Answer: 
+- quote = cart contents in Magento. Theoretically the quote is an offer and if the user accepts it (by checking out) it converts to order. You can control the lifetime yourself and they store metadata about the store, totals information , shipping and billing relations, relations to payment method and shipping method (that is quoted separately) and items
+
+-A quote is actually a 'cart' object.
+A customer can have many quotes. One for each website.
+the quote object is not created when the customer is created. It is created when the customer adds the first product to the cart.
+Also a quote is not necessarily assigned to a customer. You can have a quote when browsing the website as guest.
+In that case the quote remains in the db after the session expires.
+
+
+Q3:What is the difference between the rules in the "condition" section and the rules in the "action" section?
+
+Answer: 
+-conditions apply to specific products
+- rules apply to ALL products unless when specified 
+
+Q4:What are the differences with the "apply" functionality in the dropdown within the "actions" section of the rule configuration?
+
+Answer: 
+- Apply	Determines the type of calculation that is applied to the purchase. Options:
+Apply as percentage of original - Discounts item by subtracting a percentage of the regular price.
+Apply as fixed amount - Discounts item by subtracting a fixed amount from the regular price.
+Adjust final price to this percentage - Adjusts the final price by a percentage of the regular price.
+Adjust final price to discount value - Sets the final price to a fixed, discounted amount.
+
+Note: Regular price refers to the base product price without any advanced pricing (special/tier/group) or promotional discounts. Final price refers to the discounted price that appears in the shopping cart.
+
+Q5:Which coupon code formats are available and how do they differ?
+
+Answer: 
+-
+
+Q6:What is the difference between "Uses per Coupon" and "Uses per Customer"?
+
+Answer: 
+- Use per customer option is a cart price rule without a coupon
+- Uses per Coupon. It defines the number of times the coupon can be used.
+- Uses per Customer determines the number of times the coupon can be used by the same user.
+
+
+Reference:
+--------------
+https://magefan.com/blog/create-cart-price-rule-in-magento-2
+https://docs.magento.com/user-guide/marketing/price-rules-cart.html
+https://magefan.com/magento-2-better-order-grid-extension/add-coupon-code-in-grid
+
+https://magento.stackexchange.com/questions/14056/how-quotes-work-in-magento
+
+

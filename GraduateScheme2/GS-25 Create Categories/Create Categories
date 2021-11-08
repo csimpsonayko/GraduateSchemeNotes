@@ -1,0 +1,27 @@
+https://jira.ayko.com/browse/GS-25
+
+Q1:Why would you need multiple root categories?
+
+Answer: 
+-to enable multiple storefronts to operate from different product sets?
+
+Q2:What is a sort order and how are they set?
+
+Answer: 
+-
+
+Q3:What happens if a sort order is set in a category but custom positions have also been assigned?
+
+Answer: 
+-
+
+Q4:Which display modes are available for categories and what are the differences between them?
+
+Answer: 
+- 
+
+
+
+Reference:
+--------------
+https://docs.magento.com/user-guide/catalog/category-root.html

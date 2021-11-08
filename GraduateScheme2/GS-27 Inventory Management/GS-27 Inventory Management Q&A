@@ -1,0 +1,32 @@
+https://jira.ayko.com/browse/GS-27
+
+Q1:What is back-ordering?
+
+Answer: 
+- Backorders allow your store to continue selling products after the quantity reaches zero, or is effectively out of stock. ... Depending on your store and sales, you may want to enable or disable backorders at the following levels: Global - All products in your catalog at the site level.
+
+Q2:What is the difference between "saleable QTY" and "QTY"?
+
+Answer: 
+- Quantity per source represents (as visible in the column) the physical stock at a location
+- the Salable Quantity is the sum of available resources, grouped in stocks.
+
+Q3:What happens if you set global config and config against a product for the same option?
+
+Answer: 
+-Configuring Global Options - Settings that affect your entire catalog, considered the system default settings.
+
+- Configuring Product Options - Settings for a specific product that override global options.
+
+Q4:Which types of products have a QTY count and why?
+Answer: 
+- simple / configurable
+
+
+
+
+Reference:
+--------------
+https://community.magento.com/t5/Magento-2-x-Admin-Configuration/Explanation-for-Default-stock-and-Salable-Qty/td-p/321304
+
+https://docs.magento.com/user-guide/catalog/inventory.html
